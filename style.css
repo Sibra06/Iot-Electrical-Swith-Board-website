@@ -1,0 +1,16 @@
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+*{
+    color: rgb(160, 186, 195);
+    text-align: center;
+}
+html {    
+    background: url('https://lh3.googleusercontent.com/proxy/UcDh3Uh7jSkYEi7mG2SM5Zkc3z1-67Vdodl4tvYyBZ4qVwhhXvRAAlB6sr3-dT03e7SiEw3nNtnfgaMcVQ1UcFXWtCoh7fQJfDf8l2wiRgGyzkn4IbvtxVZbLnF-Pxv4urlktsJtGSaEX0v6vAKZefOkx5mLSL8JL1kNGRMTpZ_hWvfcsqEd2HkS-uE') no-repeat center fixed;     
+    background-size: cover;
+    
+}
+button{
+    padding: 5px 30px;
+    background-color: transparent
+}
